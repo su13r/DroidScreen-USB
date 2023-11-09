@@ -6,16 +6,15 @@ What is this?
 DroidScreen USB its project help you control and monitor multiple Android device at same time .
 its so easy to use , just run and have fun .
 
+Download installer : [DroidScreen-USB Release](https://github.com/su13r/DroidScreen-USB/releases/tag/android)
 
 <br>
-
-
 
 Libraries used :
 --------------------------------
 
 * [Scrcpy](https://github.com/Genymobile/scrcpy).
-* [Scrcpy](https://github.com/Genymobile/scrcpy).
+* [madb](https://github.com/quamotion/madb).
 
 Install requirements:
 -------------------------
@@ -24,7 +23,8 @@ Install requirements:
 
 Comments, bugs, and requests:
 -----------------------------
-* @Su13R
+* Twitter (X) , Telegram , Youtube : @Su13R
+* Visit website : https://su13r.com
 * info@su13r.com
 
 Donation:
