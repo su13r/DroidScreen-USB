@@ -1,0 +1,115 @@
+D:\Suler\DroidScreen USB\DroidScreen USB\bin\Release\DroidScreen USB.exe.config
+D:\Suler\DroidScreen USB\DroidScreen USB\bin\Release\DroidScreen USB.exe
+D:\Suler\DroidScreen USB\DroidScreen USB\bin\Release\DroidScreen USB.pdb
+D:\Suler\DroidScreen USB\DroidScreen USB\bin\Release\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\Suler\DroidScreen USB\DroidScreen USB\bin\Release\Microsoft.Win32.Primitives.dll
+D:\Suler\DroidScreen USB\DroidScreen USB\bin\Release\netstandard.dll
+D:\Suler\DroidScreen USB\DroidScreen USB\bin\Release\System.AppContext.dll
+D:\Suler\DroidScreen USB\DroidScreen USB\bin\Release\System.Collections.Concurrent.dll
+D:\Suler\DroidScreen USB\DroidScreen USB\bin\Release\System.Collections.dll
+D:\Suler\DroidScreen USB\DroidScreen USB\bin\Release\System.Collections.NonGeneric.dll
+D:\Suler\DroidScreen USB\DroidScreen USB\bin\Release\System.Collections.Specialized.dll
+D:\Suler\DroidScreen USB\DroidScreen USB\bin\Release\System.ComponentModel.dll
+D:\Suler\DroidScreen USB\DroidScreen USB\bin\Release\System.ComponentModel.EventBasedAsync.dll
+D:\Suler\DroidScreen USB\DroidScreen USB\bin\Release\System.ComponentModel.Primitives.dll
+D:\Suler\DroidScreen USB\DroidScreen USB\bin\Release\System.ComponentModel.TypeConverter.dll
+D:\Suler\DroidScreen USB\DroidScreen USB\bin\Release\System.Console.dll
+D:\Suler\DroidScreen USB\DroidScreen USB\bin\Release\System.Data.Common.dll
+D:\Suler\DroidScreen USB\DroidScreen USB\bin\Release\System.Diagnostics.Contracts.dll
+D:\Suler\DroidScreen USB\DroidScreen USB\bin\Release\System.Diagnostics.Debug.dll
+D:\Suler\DroidScreen USB\DroidScreen USB\bin\Release\System.Diagnostics.FileVersionInfo.dll
+D:\Suler\DroidScreen USB\DroidScreen USB\bin\Release\System.Diagnostics.Process.dll
+D:\Suler\DroidScreen USB\DroidScreen USB\bin\Release\System.Diagnostics.StackTrace.dll
+D:\Suler\DroidScreen USB\DroidScreen USB\bin\Release\System.Diagnostics.TextWriterTraceListener.dll
+D:\Suler\DroidScreen USB\DroidScreen USB\bin\Release\System.Diagnostics.Tools.dll
+D:\Suler\DroidScreen USB\DroidScreen USB\bin\Release\System.Diagnostics.TraceSource.dll
+D:\Suler\DroidScreen USB\DroidScreen USB\bin\Release\System.Diagnostics.Tracing.dll
+D:\Suler\DroidScreen USB\DroidScreen USB\bin\Release\System.Drawing.Primitives.dll
+D:\Suler\DroidScreen USB\DroidScreen USB\bin\Release\System.Dynamic.Runtime.dll
+D:\Suler\DroidScreen USB\DroidScreen USB\bin\Release\System.Globalization.Calendars.dll
+D:\Suler\DroidScreen USB\DroidScreen USB\bin\Release\System.Globalization.dll
+D:\Suler\DroidScreen USB\DroidScreen USB\bin\Release\System.Globalization.Extensions.dll
+D:\Suler\DroidScreen USB\DroidScreen USB\bin\Release\System.IO.Compression.dll
+D:\Suler\DroidScreen USB\DroidScreen USB\bin\Release\System.IO.Compression.ZipFile.dll
+D:\Suler\DroidScreen USB\DroidScreen USB\bin\Release\System.IO.dll
+D:\Suler\DroidScreen USB\DroidScreen USB\bin\Release\System.IO.FileSystem.dll
+D:\Suler\DroidScreen USB\DroidScreen USB\bin\Release\System.IO.FileSystem.DriveInfo.dll
+D:\Suler\DroidScreen USB\DroidScreen USB\bin\Release\System.IO.FileSystem.Primitives.dll
+D:\Suler\DroidScreen USB\DroidScreen USB\bin\Release\System.IO.FileSystem.Watcher.dll
+D:\Suler\DroidScreen USB\DroidScreen USB\bin\Release\System.IO.IsolatedStorage.dll
+D:\Suler\DroidScreen USB\DroidScreen USB\bin\Release\System.IO.MemoryMappedFiles.dll
+D:\Suler\DroidScreen USB\DroidScreen USB\bin\Release\System.IO.Pipes.dll
+D:\Suler\DroidScreen USB\DroidScreen USB\bin\Release\System.IO.UnmanagedMemoryStream.dll
+D:\Suler\DroidScreen USB\DroidScreen USB\bin\Release\System.Linq.dll
+D:\Suler\DroidScreen USB\DroidScreen USB\bin\Release\System.Linq.Expressions.dll
+D:\Suler\DroidScreen USB\DroidScreen USB\bin\Release\System.Linq.Parallel.dll
+D:\Suler\DroidScreen USB\DroidScreen USB\bin\Release\System.Linq.Queryable.dll
+D:\Suler\DroidScreen USB\DroidScreen USB\bin\Release\System.Net.Http.dll
+D:\Suler\DroidScreen USB\DroidScreen USB\bin\Release\System.Net.NameResolution.dll
+D:\Suler\DroidScreen USB\DroidScreen USB\bin\Release\System.Net.NetworkInformation.dll
+D:\Suler\DroidScreen USB\DroidScreen USB\bin\Release\System.Net.Ping.dll
+D:\Suler\DroidScreen USB\DroidScreen USB\bin\Release\System.Net.Primitives.dll
+D:\Suler\DroidScreen USB\DroidScreen USB\bin\Release\System.Net.Requests.dll
+D:\Suler\DroidScreen USB\DroidScreen USB\bin\Release\System.Net.Security.dll
+D:\Suler\DroidScreen USB\DroidScreen USB\bin\Release\System.Net.Sockets.dll
+D:\Suler\DroidScreen USB\DroidScreen USB\bin\Release\System.Net.WebHeaderCollection.dll
+D:\Suler\DroidScreen USB\DroidScreen USB\bin\Release\System.Net.WebSockets.Client.dll
+D:\Suler\DroidScreen USB\DroidScreen USB\bin\Release\System.Net.WebSockets.dll
+D:\Suler\DroidScreen USB\DroidScreen USB\bin\Release\System.ObjectModel.dll
+D:\Suler\DroidScreen USB\DroidScreen USB\bin\Release\System.Reflection.dll
+D:\Suler\DroidScreen USB\DroidScreen USB\bin\Release\System.Reflection.Extensions.dll
+D:\Suler\DroidScreen USB\DroidScreen USB\bin\Release\System.Reflection.Primitives.dll
+D:\Suler\DroidScreen USB\DroidScreen USB\bin\Release\System.Resources.Reader.dll
+D:\Suler\DroidScreen USB\DroidScreen USB\bin\Release\System.Resources.ResourceManager.dll
+D:\Suler\DroidScreen USB\DroidScreen USB\bin\Release\System.Resources.Writer.dll
+D:\Suler\DroidScreen USB\DroidScreen USB\bin\Release\System.Runtime.CompilerServices.VisualC.dll
+D:\Suler\DroidScreen USB\DroidScreen USB\bin\Release\System.Runtime.dll
+D:\Suler\DroidScreen USB\DroidScreen USB\bin\Release\System.Runtime.Extensions.dll
+D:\Suler\DroidScreen USB\DroidScreen USB\bin\Release\System.Runtime.Handles.dll
+D:\Suler\DroidScreen USB\DroidScreen USB\bin\Release\System.Runtime.InteropServices.dll
+D:\Suler\DroidScreen USB\DroidScreen USB\bin\Release\System.Runtime.Numerics.dll
+D:\Suler\DroidScreen USB\DroidScreen USB\bin\Release\System.Runtime.Serialization.Formatters.dll
+D:\Suler\DroidScreen USB\DroidScreen USB\bin\Release\System.Runtime.Serialization.Json.dll
+D:\Suler\DroidScreen USB\DroidScreen USB\bin\Release\System.Runtime.Serialization.Primitives.dll
+D:\Suler\DroidScreen USB\DroidScreen USB\bin\Release\System.Runtime.Serialization.Xml.dll
+D:\Suler\DroidScreen USB\DroidScreen USB\bin\Release\System.Security.Claims.dll
+D:\Suler\DroidScreen USB\DroidScreen USB\bin\Release\System.Security.Cryptography.Algorithms.dll
+D:\Suler\DroidScreen USB\DroidScreen USB\bin\Release\System.Security.Cryptography.Csp.dll
+D:\Suler\DroidScreen USB\DroidScreen USB\bin\Release\System.Security.Cryptography.Encoding.dll
+D:\Suler\DroidScreen USB\DroidScreen USB\bin\Release\System.Security.Cryptography.Primitives.dll
+D:\Suler\DroidScreen USB\DroidScreen USB\bin\Release\System.Security.Cryptography.X509Certificates.dll
+D:\Suler\DroidScreen USB\DroidScreen USB\bin\Release\System.Security.Principal.dll
+D:\Suler\DroidScreen USB\DroidScreen USB\bin\Release\System.Security.SecureString.dll
+D:\Suler\DroidScreen USB\DroidScreen USB\bin\Release\System.Text.Encoding.dll
+D:\Suler\DroidScreen USB\DroidScreen USB\bin\Release\System.Text.Encoding.Extensions.dll
+D:\Suler\DroidScreen USB\DroidScreen USB\bin\Release\System.Text.RegularExpressions.dll
+D:\Suler\DroidScreen USB\DroidScreen USB\bin\Release\System.Threading.dll
+D:\Suler\DroidScreen USB\DroidScreen USB\bin\Release\System.Threading.Overlapped.dll
+D:\Suler\DroidScreen USB\DroidScreen USB\bin\Release\System.Threading.Tasks.dll
+D:\Suler\DroidScreen USB\DroidScreen USB\bin\Release\System.Threading.Tasks.Parallel.dll
+D:\Suler\DroidScreen USB\DroidScreen USB\bin\Release\System.Threading.Thread.dll
+D:\Suler\DroidScreen USB\DroidScreen USB\bin\Release\System.Threading.ThreadPool.dll
+D:\Suler\DroidScreen USB\DroidScreen USB\bin\Release\System.Threading.Timer.dll
+D:\Suler\DroidScreen USB\DroidScreen USB\bin\Release\System.ValueTuple.dll
+D:\Suler\DroidScreen USB\DroidScreen USB\bin\Release\System.Xml.ReaderWriter.dll
+D:\Suler\DroidScreen USB\DroidScreen USB\bin\Release\System.Xml.XDocument.dll
+D:\Suler\DroidScreen USB\DroidScreen USB\bin\Release\System.Xml.XmlDocument.dll
+D:\Suler\DroidScreen USB\DroidScreen USB\bin\Release\System.Xml.XmlSerializer.dll
+D:\Suler\DroidScreen USB\DroidScreen USB\bin\Release\System.Xml.XPath.dll
+D:\Suler\DroidScreen USB\DroidScreen USB\bin\Release\System.Xml.XPath.XDocument.dll
+D:\Suler\DroidScreen USB\DroidScreen USB\bin\Release\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Suler\DroidScreen USB\DroidScreen USB\bin\Release\SharpAdbClient.dll
+D:\Suler\DroidScreen USB\DroidScreen USB\bin\Release\System.Buffers.dll
+D:\Suler\DroidScreen USB\DroidScreen USB\bin\Release\System.Drawing.Common.dll
+D:\Suler\DroidScreen USB\DroidScreen USB\bin\Release\Microsoft.Extensions.Logging.Abstractions.xml
+D:\Suler\DroidScreen USB\DroidScreen USB\bin\Release\System.Buffers.xml
+D:\Suler\DroidScreen USB\DroidScreen USB\obj\Release\DroidScreen USB.csproj.AssemblyReference.cache
+D:\Suler\DroidScreen USB\DroidScreen USB\obj\Release\DroidScreen USB.csproj.SuggestedBindingRedirects.cache
+D:\Suler\DroidScreen USB\DroidScreen USB\obj\Release\DroidScreen USB.exe.config
+D:\Suler\DroidScreen USB\DroidScreen USB\obj\Release\DroidScreen_USB.Main.resources
+D:\Suler\DroidScreen USB\DroidScreen USB\obj\Release\DroidScreen_USB.Properties.Resources.resources
+D:\Suler\DroidScreen USB\DroidScreen USB\obj\Release\DroidScreen USB.csproj.GenerateResource.cache
+D:\Suler\DroidScreen USB\DroidScreen USB\obj\Release\DroidScreen USB.csproj.CoreCompileInputs.cache
+D:\Suler\DroidScreen USB\DroidScreen USB\obj\Release\DroidScreen USB.csproj.CopyComplete
+D:\Suler\DroidScreen USB\DroidScreen USB\obj\Release\DroidScreen USB.exe
+D:\Suler\DroidScreen USB\DroidScreen USB\obj\Release\DroidScreen USB.pdb
