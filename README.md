@@ -1,7 +1,7 @@
 # DroidScreen-USB
 
 <p align="center">
-    <img width="500" src="https://github.com/su13r/DroidScreen-USB/blob/main/DroidScreen%20USB/app_store_icon.png">
+    <img width="600" src="https://github.com/su13r/DroidScreen-USB/blob/main/DroidScreen%20USB/app_store_icon.png">
 </p>
 What is this?
 -------------
