@@ -1,6 +1,9 @@
 # DroidScreen-USB
-![DroidScreen](https://github.com/su13r/DroidScreen-USB/blob/main/DroidScreen%20USB/app_store_icon.png)
+<p align="center">
 
+    <img width="200" src="https://github.com/su13r/DroidScreen-USB/blob/main/DroidScreen%20USB/app_store_icon.png" alt="Material Bread logo">
+
+</p>
 What is this?
 -------------
 DroidScreen USB its project help you control and monitor multiple Android device at same time .
