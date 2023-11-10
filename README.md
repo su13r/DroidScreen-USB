@@ -11,6 +11,9 @@ What is this?
 DroidScreen USB its project help you control and monitor multiple Android device at same time .
 its so easy to use , just run and have fun .
 
+The program provides easy and convenient control of connected devices, 
+from connecting and disconnecting operations to controlling each phone’s screen using the mouse and keyboard
+
 Download installer : [DroidScreen-USB Release](https://github.com/su13r/DroidScreen-USB/releases/tag/android)
 
 Download via Telegram : [DroidScreen-USB Install](https://t.me/su13r/7)
