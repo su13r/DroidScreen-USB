@@ -14,6 +14,8 @@ its so easy to use , just run and have fun .
 The program provides easy and convenient control of connected devices, 
 from connecting and disconnecting operations to controlling each phone’s screen using the mouse and keyboard
 
+More info & Download : [droidscreen-usb.su13r.com](https://droidscreen-usb.su13r.com/)
+
 Download installer : [DroidScreen-USB Release](https://github.com/su13r/DroidScreen-USB/releases/tag/android)
 
 Download via Telegram : [DroidScreen-USB Install](https://t.me/su13r/7)
