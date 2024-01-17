@@ -44,4 +44,4 @@ Comments, bugs, and requests:
 
 Donation:
 -------
-* BTC - 333pDNC9ywnvStEDutSzmDHyZ8zLeDTA7i
+* BTC - 1Ldr2LfK5CpU9uNPWGnytq8EBGueGY7e5N
